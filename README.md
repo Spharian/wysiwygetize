@@ -6,7 +6,7 @@ wysiwygetize is a simple and lightweight plugin adding wysiwyg editor to textare
 ``` javascript
 $('textarea').wysiwygetize({
     buttons: {
-        // values are the menu buttons labels
+        // values = the menu buttons labels. You can also specify which buttons you want by calling only some of them
         bold: 'B',
         italic: 'I',
         underline: 'U',
