@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>wysiwygetize demo</title>
+    <link rel="stylesheet" href="css/wysiwygetize.css">
+    <style>
+    textarea {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        width: 300px;
+        height: 200px;
+        padding: 14px;
+        border: 1px solid #000;
+    }
+    textarea:focus {
+        border: 1px solid red;
+    }
+    </style>
+</head>
+
+<body>
+    <textarea></textarea>
+    
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/jquery.wysiwygetize.min.js"></script>
+    <script>
+    $(function() {
+        $('textarea').wysiwygetize();
+    });
+    </script>
+</body>
+</html>
