@@ -4,7 +4,7 @@ wysiwygetize is a simple and lightweight plugin adding wysiwyg editor to textare
 
 Compatible with every real browsers and IE8+.
 
-Online [demo](spharian.be/wysiwygetize).
+Online [demo](http://www.spharian.be/wysiwygetize).
 
 ## Configuration
 ``` javascript
