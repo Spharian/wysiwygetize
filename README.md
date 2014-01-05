@@ -1,6 +1,10 @@
 # wysiwygetize
 
-wysiwygetize is a simple and lightweight plugin adding wysiwyg editor to textareas. After selecting some text, a menu appears and let you apply styles to your content.
+wysiwygetize is a simple and lightweight plugin adding wysiwyg editor to textareas. After selecting some text, a menu appears and let you apply styles to your content (inspired by [medium.com](http://www.medium.com)).
+
+Compatible with every real browsers and IE8+.
+
+Online [demo](spharian.be/wysiwygetize).
 
 ## Configuration
 ``` javascript
