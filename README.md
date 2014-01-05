@@ -6,6 +6,8 @@ Compatible with every real browsers and IE8+.
 
 Online [demo](http://www.spharian.be/wysiwygetize).
 
+Note that I still consider this version as beta. Feel free to contact me if you encounter any problem.
+
 ## Configuration
 ``` javascript
 $('textarea').wysiwygetize({
