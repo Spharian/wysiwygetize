@@ -6,7 +6,7 @@ Compatible with every real browsers and IE8+.
 
 Note that I still consider this version as beta. Feel free to contact me if you encounter any problem.
 
-Online [demo](http://www.sfertons.dev/wysiwygetize).
+Online [demo](https://spharian.vercel.app/wysiwygetize).
 
 ## Configuration
 ``` javascript
